@@ -1,86 +1,29 @@
-# Rutuja Vaidya — Personal Portfolio
+# Welcome to your Lovable project
 
-A personal portfolio showcasing my work, technical skills, projects, education, and professional experience in Artificial Intelligence, Machine Learning, Python Development, and Software Engineering.
+This project was built with [Lovable](https://lovable.dev).
 
-## About Me
+## Build with Lovable
 
-I am pursuing an M.Tech in Artificial Intelligence and Signal Processing at COEP Technological University. My interests include Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, Data Analytics, and Signal Processing.
+Open your project in the [Lovable editor](https://lovable.dev) and keep building.
 
-## Features
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
+- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
 
-- Responsive portfolio website
-- Professional introduction and about section
-- Technical skills showcase
-- Project cards with category filters
-- GitHub repository links
-- Internship and education timelines
-- Research interests and achievements
-- Four tailored resume options
-- Contact, LinkedIn, and GitHub links
-- Dark futuristic UI with purple accents and animations
+## Development
 
-## Tech Stack
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-Add or retain only the technologies actually used in the project.
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
 
-- React
+## Built with
+
+- TanStack Start
 - TypeScript
-- Vite
+- React
 - Tailwind CSS
-- CSS animations
-
-## Featured Projects
-
-### Wildlife Population Intelligence System
-AI-focused wildlife monitoring and population intelligence project.
-
-Repository: https://github.com/springboardmentor27400b/Wildlife-Population-Intelligence-System-Group-2
-
-### PolicyPulse — Sentiment Analysis Dashboard
-An NLP-based sentiment analysis and public sentiment visualization project.
-
-Repository: https://github.com/rutu144/PolicyPulse-SentimentAnalysisDashboard
-
-## Run Locally
-
-### Prerequisites
-- Node.js
-- npm
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/rutu144/rutuja-vaidya-portfolio.git
-   ```
-
-2. Enter the project directory:
-
-   ```bash
-   cd rutuja-vaidya-portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open the local URL displayed in your terminal.
-
-## Contact
-
-- **GitHub:** https://github.com/rutu144
-- **LinkedIn:** https://www.linkedin.com/in/rutuja-vaidya-01581b281
-- **Email:** vaidyarutuja14@gmail.com
-
----
-
-Created by Rutuja Vaidya.
